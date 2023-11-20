@@ -1,0 +1,1 @@
+printf("\nDinh dang xet: %d", n);
